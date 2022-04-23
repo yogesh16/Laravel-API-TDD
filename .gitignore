@@ -21,3 +21,9 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+.idea/millions-test.iml
+.idea/misc.xml
+.idea/phpunit.xml
+.idea/php.xml
+.idea/modules.xml
+.idea/laravel-plugin.xml
